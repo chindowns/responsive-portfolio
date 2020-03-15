@@ -24,21 +24,37 @@ font-family: 'Montserrat', sans-serif;
 font-family: 'Baloo Da 2', cursive;
  -->
  <!-- Header in 1st col, 2nd empty and 3rd col is Nav -->   
-        <div class="container">
-         
-            <header>
-                <h1>Michael <span class="text-muted">Downs</span></h1>
-            </header>
-        
-            <nav class="nav justify-content-end">
-                <a class="nav-link active" href="#" />About</a>
-                <a class="nav-link" href="portfolio.html" />Portfolio</a>
-                <a class="nav-link" href="contact.html" />Contact</a>
-            </nav>
-        
+    <div class="container">
+      <!-- Header and Nav Row -->
+      <div class="row">
+        <header class="col-lg-4 bg-info text-align-center text-white h3">
+          Michael <span class="text-muted">Downs</span>
+        </header>
+        <nav class="col-lg-8 nav justify-content-end">
+          <a class="nav-link active" href="#" />About</a>  <span class="nav-link disabled">|</span>  
+          <a class="nav-link" href="portfolio.html" />Portfolio</a> <span class="nav-link disabled">|</span>  
+          <a class="nav-link" href="contact.html" />Contact</a>
+        </nav>
         </div>
-
-<br>
+      </div>
+    </div>
+  
+  <!-- About Me Section -->
+    <section class="container-fluid">
+      <div class="container">
+        <article class="card">
+          <div class="card-body">
+            <h1 class="card-header">About Me</h1>
+          </div>
+          <div class="card-body">
+            <p class="card-text">
+              <img src="assets/images/200x200-place-holder.jpg" alt="profile image" />
+            Michael is completing 
+            </p>
+          </div>
+        </article>
+      </div>
+    </section>
     <h1>Hello, world!</h1>
 
     <!-- Optional JavaScript -->

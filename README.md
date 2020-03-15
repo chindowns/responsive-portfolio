@@ -44,3 +44,6 @@ header {
 ### Michael Downs
 [LinkedIn](http://www.linkedin.com/in/michaeldownssj)  
 [GitHub](https://chindowns.github.io/) 
+
+## Credits
+Background Image courtesy of photos-public-domain.com
