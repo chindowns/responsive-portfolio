@@ -13,6 +13,7 @@ header {
 
 nav {
     padding: 16px 0;
+    margin-right: 0px;
 }
 
 nav .nav-link {
@@ -22,7 +23,11 @@ nav .nav-link {
 
 div .col-md-8 {
     padding:0;
-    background-color:green;
+ }
+
+img {
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 footer {
