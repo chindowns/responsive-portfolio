@@ -1,14 +1,30 @@
 body {
-    font-family: 'Baloo 2', cursive;
-}
+    background-image: url(../images/light-grey-linen-559x447.jpg);
+    background-repeat: repeat;
+    padding-bottom: 70px;
+} 
 
 header {
-    padding: 20px 15px 15px 15px;
+    padding: 20px 0px 15px 0px;
     background-color: #59aaa5;
     color: white;
+    font-size:large;
 }
 
 nav {
-    padding: 20px 15px;
+    padding: 16px 0;
 }
 
+nav .nav-link {
+    margin: 0 5px;
+    padding: 0 0;
+}
+
+div .col-md-8 {
+    padding:0;
+    background-color:green;
+}
+
+footer {
+    padding-bottom: 70px;
+}
