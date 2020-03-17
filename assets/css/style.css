@@ -4,19 +4,23 @@ body {
     padding-bottom: 70px;
 } 
 
-header {
-    /* padding: 20px 0px 15px 0px; */
-    background-color: #59aaa5;
-    color: white;
-    font-size:large;
-}
-
 h3 {
     color:#59aaa5;
 }
 
-footer {
-    padding-bottom: 70px;
-    border-top: 4px solid #59aaa5;
+header{
+    background-color: #59aaa5;
 }
 
+footer {
+    padding-bottom: 70px;
+    border-top: 6px solid #59aaa5;
+}
+
+div .card-img-overlay {
+    background-color: #59aaa5;
+    margin-top: 145px;
+    /* height: 25px; */
+    /* text-align: center; */
+    /* padding-bottom:25px; */
+}
