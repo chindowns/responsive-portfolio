@@ -11,12 +11,12 @@ header {
     font-size:large;
 }
 
-/* nav {
-    padding: 16px 0;
-    margin-right: 0px;
-} */
+h3 {
+    color:#59aaa5;
+}
 
 footer {
     padding-bottom: 70px;
+    border-top: 4px solid #59aaa5;
 }
 

@@ -1,5 +1,9 @@
 # Responsive Portfolio
 Michael Downs portfolio site is a responsive design that renders well on a variety of devies, window and screen sizes.  This site can quickly be adapted to a template or resused for many portfolios in tech or creative. 
+- Index page is all About Michael.  
+- Portfolio page links to different completed projects.
+- Contact page provides an email form to Michael. 
+
 
 ## Site Picture
 
@@ -13,12 +17,11 @@ Michael Downs portfolio site is a responsive design that renders well on a varie
 - Bootstrap - Used the Bootstrap framework to build the Portfolio pages
 - Media
 
-## Summary
-This site is the beginning of my portfolio site and practice for creating responsive websites.  
-
 ## Code Snippet
-<!-- Summary of why this snippet is shown below -->
-'''html  
+The header and navigaion are used across all three pages.  This page maintains consistency across the pages.  This is a snippet of the code used to make the header and navigation.  This will also demonstrate the use of comments to describe what is happeing in the code.
+
+html
+'''  
 
 
 ...
