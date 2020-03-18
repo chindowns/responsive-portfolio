@@ -19,8 +19,21 @@ footer {
 
 div .card-img-overlay {
     background-color: #59aaa5;
-    margin-top: 145px;
+    /* margin-top: 145px; */
     /* height: 25px; */
     /* text-align: center; */
     /* padding-bottom:25px; */
 }
+
+.card-columns {
+    @media (max-width: 1200px) {
+        column-count:2;
+    }
+    @media (min-width: 401px) {
+        column-count: 2;
+    }
+    @media (max-width: 400px) {
+        column-count: 1;
+    }
+}
+    
